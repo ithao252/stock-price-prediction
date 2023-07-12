@@ -8,3 +8,4 @@ This is a personal exercise requesting the construction of a  web application to
 1. Install packages dependencies: `pip install -r requirements.txt`
 2. Run: `python3 stock_app.py`
 3. Open browser and go to http://localhost:8050/
+#### Video demo: https://youtu.be/Dz_Y4Col1oI
